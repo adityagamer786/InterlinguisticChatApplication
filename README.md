@@ -59,4 +59,4 @@ Start the server
 ```
 ## Authors
 
--   [@adityagamer786(https://github.com/adityagamer786)
+-   [@adityagamer786](https://github.com/adityagamer786)
